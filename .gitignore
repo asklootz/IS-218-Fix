@@ -1,0 +1,12 @@
+__pycache__/
+*.pyc
+
+outputs/
+raster-output/
+shelter_coverage_*.csv
+shelter_coverage_*.xlsx
+
+Basisdata_6404-1_Celle_25832_DTM10UTM32_DEM/
+data/tilfluktsrom_geojson/
+data/tilfluktsrom_geojson.zip
+data/tilfluktsrom_gml.zip
